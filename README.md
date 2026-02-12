@@ -28,4 +28,6 @@ This project is built using modern web technologies such as **HTML, CSS, JavaScr
 * Understand real-world website architecture
 * Improve UI/UX development skills
 
+Project link = https://sohamdeyy.github.io/Wikipedia-Clone-Using-HTML-only-/
+
 ---
